@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Pro-CoderNL
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning HTML
-- 📫 You can follow my on YouTube: Nasal Gamer :D
-- Ty for reading this
+Hi
